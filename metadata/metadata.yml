@@ -1,0 +1,14 @@
+metadata_version: 1
+name: GATK - Mutect2
+description: |-
+  Mutect2
+
+  https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2
+tags:
+- GATK
+- Variant Calling
+- RNA
+- Genomics
+- Oncology
+authors:
+- name: Stephen Pirpinias
